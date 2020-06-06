@@ -1,0 +1,11 @@
+{
+  "itune_list": "Search Results",
+  "itune_search": "iTune Search",
+  "itune_search_default": "Search for an Artist by entering the name in the search box",
+  "get_itune_details": "Get Songs of The Artist",
+  "search_query": "Search query: {ituneName}",
+  "matching_itune": "Total number of matching results: {totalCount}",
+  "something_went_wrong": "Sorry. Something went wrong! Please try again in sometime.",
+  "stories": "Go to Storybook",
+  "wednesday_solutions": "Wednesday Solutions"
+}
